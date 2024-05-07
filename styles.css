@@ -1,5 +1,5 @@
 body {
-    font-family: 'Roboto', sans-serif; 
+    font-family: Georgia, "Times New Roman", Times, serif;
     background-color: #282c34; 
     color: #ffffff; 
     text-align: center;
@@ -30,9 +30,9 @@ h1 {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     grid-template-rows: repeat(2, 1fr);
-    gap: 20px;
+    gap: 10px;
     justify-content: center;
-    padding: 20px;
+    padding: 10px;
 }
 
 .card {
@@ -72,5 +72,5 @@ h1 {
 
 #start-game:hover {
     background-color: #43a047; /* Darker on hover */
-    transform: scale(1.05); /* Slightly enlarges on hover */
+    transform: scale(0.05); /* Slightly enlarges on hover */
 }
