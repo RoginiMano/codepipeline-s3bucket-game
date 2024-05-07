@@ -8,8 +8,8 @@ body {
 }
 
 .container {
-    width: 20px auto;
-    margin: 40px auto;
+    width: 20px ;
+    margin: 40px ;
     padding: 20px;
     background-color: #3c404d; 
     box-shadow: 0 10px 10px rgba(0, 0, 0, 0.25); 
@@ -72,5 +72,5 @@ h1 {
 
 #start-game:hover {
     background-color: #43a047; /* Darker on hover */
-    transform: scale(0.05); /* Slightly enlarges on hover */
+    transform: scale(1.05); /* Slightly enlarges on hover */
 }
