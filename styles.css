@@ -8,12 +8,12 @@ body {
 }
 
 .container {
-    width: auto;
-    margin: 40px auto;
-    padding: 30px;
+    width: 20px auto;
+    margin: 100px auto;
+    padding: 20px;
     background-color: #3c404d; 
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.25); 
-    border-radius: 15px; 
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.25); 
+    border-radius: 10px; 
 }
 
 h1 {
@@ -21,8 +21,8 @@ h1 {
 }
 
 .instructions {
-    font-size: 20px;
-    margin-bottom: 30px;
+    font-size: 10px;
+    margin-bottom: 10px;
     color: #adbac7;
 }
 
@@ -39,8 +39,8 @@ h1 {
     width: 180.8px;
     height: 150.2px;
     background-color: #565c6f;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 05px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
     cursor: pointer;
     display: flex;
     align-items: center;
@@ -50,7 +50,7 @@ h1 {
 
 .card img {
     width: 50%;
-    height: auto;
+    height: 10px;
     visibility: hidden; /* Hide images by default */
     display: block;
 }
@@ -62,7 +62,7 @@ h1 {
 #start-game {
     background-color: #4caf50;
     color: white;
-    padding: 12px 24px;
+    padding: 10px 20px;
     border: none;
     border-radius: 5px;
     cursor: pointer;
